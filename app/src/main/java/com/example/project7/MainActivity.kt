@@ -26,7 +26,6 @@ class MainActivity : AppCompatActivity() {
         }
         binding.button.setOnClickListener {
             pokeinfor()
-
         }
     }
 
